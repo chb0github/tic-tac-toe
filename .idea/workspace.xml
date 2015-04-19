@@ -2,93 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a20da34-aeae-4190-80f0-9dc19080d127" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/DefaultEdge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/DefaultGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/DefaultVertex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/Edge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/Graph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/org/bongiorno/algorithms/graph/TestGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/Vertex.java" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\changes\changes.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\FastInfoset.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\activation.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\aopalliance.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\commons-logging.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\http.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\jaxb-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\jaxb-impl.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\jaxb-xjc.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\jaxws-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\jaxws-rt.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\jaxws-tools.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\jsr173_api.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\jsr181-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\jsr250-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\resolver.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\saaj-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\saaj-impl.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\sjsxp.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-aop.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-asm.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-aspects.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-beans.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-context.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-core.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-data-commons-core-1.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-data-jpa-1.0.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-expression.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-instrument.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-core.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-event.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-feed.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-file.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-ftp.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-groovy.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-http.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-httpinvoker.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-ip.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-jdbc.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-jms.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-jmx.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-mail.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-rmi.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-security.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-sftp.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-stream.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-test.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-twitter.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-ws.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-xml.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-integration-xmpp.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-jdbc.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-jms.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-orm.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-oxm.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-security-acl.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-security-aspects.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-security-cas-client.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-security-config.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-security-core.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-security-ldap.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-security-openid.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-security-taglibs.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-security-web.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-tx.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\spring-ws.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\stax-ex.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\lib\streambuffer.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\out\production\dawg\spring-config.xml" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\src\brainteasers\FindRepeating.java" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/brainteasers/FindRepeating.java" />
-      <change type="MOVED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\src\games\tictactoe\Mark.java" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/tictactoe/Mark.java" />
-      <change type="MOVED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\src\games\tictactoe\Square.java" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/tictactoe/Square.java" />
-      <change type="MOVED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\src\games\tictactoe\TickTackToe.java" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/tictactoe/TickTackToe.java" />
-      <change type="MOVED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\src\search\IncrementalSearch.java" afterPath="$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/search/IncrementalSearch.java" />
-      <change type="MOVED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\test\brainteasers\TestBrainTeasers.java" afterPath="$PROJECT_DIR$/src/test/java/org/bongiorno/algorithms/brainteasers/TestBrainTeasers.java" />
-      <change type="MOVED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\test\games\tictactoe\TicTacToeTest.java" afterPath="$PROJECT_DIR$/src/test/java/org/bongiorno/algorithms/games/tictactoe/TicTacToeTest.java" />
-      <change type="MOVED" beforePath="C:\Users\chribong\development\code\bongiorno\Algorithm-Playground\test\search\IncrementalTest.java" afterPath="$PROJECT_DIR$/src/test/java/org/bongiorno/algorithms/search/IncrementalTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Algorithm-Playground.iws" />
@@ -184,9 +97,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="476">
               <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -216,9 +127,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="833">
               <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -226,8 +135,8 @@
       <file leaf-file-name="DefaultVertex.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/DefaultVertex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29344073" vertical-offset="0" max-vertical-offset="1479">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1479">
+              <caret line="17" column="57" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -238,7 +147,7 @@
       <file leaf-file-name="TestGraph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/bongiorno/algorithms/graph/TestGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="338" max-vertical-offset="1258">
+            <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1173">
               <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
               <folding />
             </state>
@@ -258,7 +167,7 @@
       <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="595">
+            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="561">
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
@@ -357,6 +266,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -609,8 +520,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -912,7 +821,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32844934" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32844934" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -924,7 +833,7 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24664225" sideWeight="0.67114913" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24664225" sideWeight="0.67114913" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -963,7 +872,8 @@
     </option>
     <MESSAGE value="check in to make sure it isnt lost" />
     <MESSAGE value="wip" />
-    <option name="LAST_COMMIT_MESSAGE" value="wip" />
+    <MESSAGE value="complete refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete refactor" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -996,9 +906,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="476">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,9 +930,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="833">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/DefaultVertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1479">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/bongiorno/algorithms/graph/TestGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1173">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="561">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="561">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="425">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/brainteasers/FindRepeating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="595">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/bongiorno/algorithms/brainteasers/TestBrainTeasers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="476">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="595">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/DefaultGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="901">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/DefaultEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="833">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,9 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="4029">
           <caret line="136" column="61" selection-start-line="136" selection-start-column="52" selection-end-line="136" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1107,9 +1092,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="476">
           <caret line="21" column="61" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1132,9 +1115,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="4029">
           <caret line="136" column="52" selection-start-line="136" selection-start-column="52" selection-end-line="136" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1158,9 +1138,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="476">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1184,9 +1162,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1224,8 +1200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/bongiorno/algorithms/graph/DefaultVertex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29344073" vertical-offset="0" max-vertical-offset="1479">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1479">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
