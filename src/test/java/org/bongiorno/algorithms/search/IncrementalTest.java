@@ -1,4 +1,4 @@
-package search;
+package org.bongiorno.algorithms.search;
 
 import org.junit.Test;
 
@@ -14,7 +14,7 @@ public class IncrementalTest {
 
     @org.junit.Test
     public void testDawg() throws Exception {
-        IncrementalSearch dawg = new IncrementalSearch(new HashSet<String>(Arrays.asList("christian","bongiorno","christmas","chime","joeseph","joe")));
+        TrieSearch dawg = new TrieSearch(new HashSet<String>(Arrays.asList("christian","bongiorno","christmas","chime","joeseph","joe")));
         dawg.load();
         Set<String> results = dawg.find("chr");
         
@@ -36,7 +36,7 @@ public class IncrementalTest {
 
     @Test
     public void testCycleTest() throws Exception {
-        IncrementalSearch dawg = new IncrementalSearch(new HashSet<String>(Arrays.asList("boot","bot","bottom","cat","car","cannee")));
+        TrieSearch dawg = new TrieSearch(new HashSet<String>(Arrays.asList("boot","bot","bottom","cat","car","cannee")));
         dawg.load();
         Set<String> results = dawg.find("boot"); 
         assertEquals(new HashSet<String>(Arrays.asList("boot")),results);
@@ -52,7 +52,7 @@ public class IncrementalTest {
     public void testloadFile() throws Exception {
 
         BufferedReader r = new BufferedReader(new InputStreamReader(new FileInputStream("/Users/christian/cleanwords.txt")));
-        IncrementalSearch dawg = new IncrementalSearch();
+        TrieSearch dawg = new TrieSearch();
         Random rand = new Random();
         
         for(int count = 0; r.ready() || count <= 10000; ) {

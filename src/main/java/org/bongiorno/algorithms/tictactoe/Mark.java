@@ -1,4 +1,4 @@
-package games.tictactoe;
+package org.bongiorno.algorithms.tictactoe;
 
 /**
  * Created by IntelliJ IDEA.

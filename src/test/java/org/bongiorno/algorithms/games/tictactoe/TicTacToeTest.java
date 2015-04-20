@@ -1,6 +1,8 @@
-package games.tictactoe;
+package org.bongiorno.algorithms.games.tictactoe;
 
 
+import org.bongiorno.algorithms.tictactoe.Mark;
+import org.bongiorno.algorithms.tictactoe.TickTackToe;
 import org.junit.Test;
 
 import java.util.Random;

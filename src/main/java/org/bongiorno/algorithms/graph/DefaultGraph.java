@@ -1,6 +1,7 @@
 package org.bongiorno.algorithms.graph;
 
 import java.util.*;
+import java.util.function.Predicate;
 
 /**
  * @author chribong
@@ -44,4 +45,8 @@ public class DefaultGraph implements Graph {
         return properties.get(name);
     }
 
+    @Override
+    public LinkedHashSet<Graph> findPath(Predicate<Vertex> p) {
+        return null;
+    }
 }

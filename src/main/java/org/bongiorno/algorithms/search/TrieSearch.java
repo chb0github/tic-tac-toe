@@ -1,4 +1,4 @@
-package search;
+package org.bongiorno.algorithms.search;
 
 
 import java.io.BufferedReader;
@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class IncrementalSearch {
+public class TrieSearch {
 
     private static char[] CHARS_TO_NUMBER = new char[26];
     static {
@@ -54,7 +54,7 @@ public class IncrementalSearch {
     public static void main(String[] args) throws IOException {
 
         BufferedReader r = new BufferedReader(new InputStreamReader(new FileInputStream(args[0])));
-        IncrementalSearch dawg = new IncrementalSearch();
+        TrieSearch dawg = new TrieSearch();
 
         while(r.ready() ) {
             String s = r.readLine();
@@ -74,11 +74,11 @@ public class IncrementalSearch {
 
     private Node rootNode = new Node((char)0);
 
-    public IncrementalSearch(Set<String> words) {
+    public TrieSearch(Set<String> words) {
         rootNode.associateWords(words);
     }
 
-    public IncrementalSearch() {
+    public TrieSearch() {
 
     }
 

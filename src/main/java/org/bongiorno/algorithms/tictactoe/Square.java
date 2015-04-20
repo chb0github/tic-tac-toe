@@ -1,4 +1,4 @@
-package games.tictactoe;
+package org.bongiorno.algorithms.tictactoe;
 
 
 public class Square {

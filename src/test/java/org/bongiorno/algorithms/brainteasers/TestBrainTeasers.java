@@ -1,4 +1,4 @@
-package brainteasers;
+package org.bongiorno.algorithms.brainteasers;
 
 import org.junit.Test;
 

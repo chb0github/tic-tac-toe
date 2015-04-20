@@ -1,4 +1,4 @@
-package brainteasers;
+package org.bongiorno.algorithms.brainteasers;
 
 /**
  * Created by IntelliJ IDEA.
