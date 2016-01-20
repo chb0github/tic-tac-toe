@@ -1,4 +1,4 @@
-package org.bongiorno.algorithms.tictactoe;
+package org.bongiorno.games.tictactoe;
 
 
 import java.io.BufferedReader;
@@ -8,7 +8,6 @@ import java.util.*;
 import java.util.function.BiFunction;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.*;
 

@@ -1,4 +1,4 @@
-package org.bongiorno.algorithms.tictactoe;
+package org.bongiorno.games.tictactoe;
 
 
 public class Square implements Comparable<Square> {

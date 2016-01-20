@@ -1,10 +1,9 @@
-package org.bongiorno.algorithms.tictactoe;
+package org.bongiorno.games.tictactoe;
 
 import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Random;
 
 import static org.junit.Assert.*;
 
