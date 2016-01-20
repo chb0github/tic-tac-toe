@@ -76,14 +76,14 @@ public class Game {
     public static void main(String[] args) throws IOException {
         Pattern pattern = Pattern.compile("([0-9]+)[ ]+([0-9]+)");
 
-        Game game = new Game(3);
+        Game game = new Game(args.length > 1 ? Integer.parseInt(args[0]) : 3);
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         Character[] marks = {'X', 'O'};
         int turn = 0;
-        Character winner;
+        Character winner = null;
         do {
-            Character mark = marks[turn++ % marks.length];
+            Character mark = marks[turn % marks.length];
             System.out.print(mark + " -> ");
             String line = reader.readLine();
             Matcher matcher = pattern.matcher(line);
@@ -92,11 +92,15 @@ public class Game {
                 Integer y = new Integer(matcher.group(2));
                 try {
                     game.addMark(mark, x, y);
+                    turn++;
+                    winner = game.score();
                 } catch (IllegalArgumentException e) {
                     System.err.println(e.getMessage());
                 }
             }
-            winner = game.score();
+            else {
+                System.err.println("Invalid input. Enter a mark position of '1 0' for example");
+            }
         }
         while (winner == null);
 
