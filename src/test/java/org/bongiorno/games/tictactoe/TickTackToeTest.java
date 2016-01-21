@@ -68,6 +68,7 @@ public class TickTackToeTest {
         game.addMark('X', 0, 0);
         game.addMark('X', 1, 1);
         game.addMark('X', 2, 2);
+        game.addMark('X', 1, 0); // legitimate bug.
         Character winner = game.score(); // null if no win
         assertEquals(new Character('X'),winner);
     }

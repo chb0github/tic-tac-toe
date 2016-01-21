@@ -39,7 +39,7 @@ public class Game {
             List<Square> squares = e.getValue();
             squares.sort(null);
             boolean win = traverse(squares, Square::sameRow) || traverse(squares, Square::sameColumn);
-            win = win || traverse(squares, Square::isDiagonalTo);
+            win = win || traverse(squares, Square::isDiagonalTo); // have to determine which direction and pass that along
             if (win) {
                 winner = e.getKey();
                 break;
