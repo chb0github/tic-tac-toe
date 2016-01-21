@@ -32,6 +32,7 @@ public class Game {
     }
 
     public Character score() {
+        // need Set<Square>
         Map<Character, List<Square>> groups = marks.stream().collect(groupingBy(Square::getMark));
         Character winner = null;
 
